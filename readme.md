@@ -14,3 +14,5 @@
 5. create src/index.html
 
 6. run command to start tailwind `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+
+7. pasileidus is naujo `npm run dev`
